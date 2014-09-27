@@ -1,2 +1,12 @@
 import java.util.Scanner;
 public class tugas1
+{
+	public static void main (String [] args)
+	{
+		int i,x ;
+		x=1;
+		Scanner s=new Scanner(System.in);
+		System.out.println(" ");
+        System.out.printf("Input angka : ");
+        int N=s.nextInt();
+}
